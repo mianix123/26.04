@@ -5,3 +5,4 @@ for i in range(1,8):
         print("To jest: ",i , "wykonanie zewnętrznej pętli i", j , "wewnętrznej pętli")
 #zmiana_branch
 #zmiana2_branch
+#zmiana3_branch
